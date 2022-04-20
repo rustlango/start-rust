@@ -1,0 +1,1 @@
+/home/alvorithm/Documents/FOCUS_SAULS/solidity_rust_fullstack/Rustlanging/start_rust/default_immutability/target/debug/default_imutability: /home/alvorithm/Documents/FOCUS_SAULS/solidity_rust_fullstack/Rustlanging/start_rust/default_immutability/src/main.rs
