@@ -1,7 +1,7 @@
 // match is like switch but it is an optimized version of switch
 
 fn main() {
-    let marks: i32 = 49;
+    let marks: i32 = 82;
  
     match marks {
         50..=59 => println!("You passed and got a D symbol"),
