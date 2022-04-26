@@ -1,4 +1,5 @@
 // statements do not return a value. Expressions return a value
+// notice no need for brackets for the conditional arguments
 
 fn main() {
     let marks: i32 = 75;
