@@ -2,7 +2,7 @@
 // value tyupes in a rust array
 // square bracket notation wih values separated by commas
 // suitable for fixed elements like days of the week
-// use vectoor for unfixed elements of data
+// use vector for unfixed elements of data
 use std::io;
 
 fn main() {
