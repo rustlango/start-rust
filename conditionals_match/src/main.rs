@@ -1,7 +1,7 @@
 // match is like switch but it is an optimized version of switch
 
 fn main() {
-    let marks: i32 = 88;
+    let marks: i32 = 89;
  
     match marks {
         // anything less than 50 percent is a fail but do not give up:-)
