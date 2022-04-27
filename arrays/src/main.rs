@@ -11,7 +11,7 @@
 fn main() {
     let an_array = [1, 2, 3];
     // {} will not work when printing arrays to the screen so use {}:?} fmt
-    println!("An array declare without data type or size{:?} ", an_array);
+    println!("An array declared without data type and size{:?} ", an_array);
     // checking the lenght of an array using the standard len() function
     println!("This array contains {} elements", an_array.len());
 
@@ -20,6 +20,8 @@ fn main() {
 
     let an_array1: [i32; 3] = [1, 2, 3];
     // {} will not work when printing arrays to the screen so use {}:?} fmt
-    println!("An array declared with data type or size{:?} ", an_array1);
+    println!("
+    ");
+    println!("An array declared with data type and size{:?} ", an_array1);
     // checking the lenght of an array using the standard len() function
     }
