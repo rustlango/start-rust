@@ -1,30 +1,25 @@
-// fixed length compaund data type of one type. Cannot use different 
+// fixed length compound data type of one type. Cannot use different 
 // value tyupes in a rust array
 // square bracket notation wih values separated by commas
 // suitable for fixed elements like days of the week
 // use vector for unfixed elements of data
-use std::io;
 
+
+// a few ways to declare or create an array
+
+// 1. Array declared without datat type and size
 fn main() {
-    let a = [1, 2, 3, 4, 5];
+    let an_array = [1, 2, 3];
+    // {} will not work when printing arrays to the screen so use {}:?} fmt
+    println!("An array declare without data type or size{:?} ", an_array);
+    // checking the lenght of an array using the standard len() function
+    println!("This array contains {} elements", an_array.len());
 
-    println!("Please enter an array index.");
+// 2. Declaring an array by sepcifying type and size
+// array: [T; N] T is the type and N is the number of elements
 
-    let mut index = String::new();
-
-    io::stdin()
-        .read_line(&mut index)
-        .expect("Failed to read line");
-
-    let index: usize = index
-        .trim()
-        .parse()
-        .expect("Index entered was not a number");
-
-    let element = a[index];
-
-    println!(
-        "The value of the element at index {} is: {}",
-        index, element
-    );
-}
+    let an_array1: [i32; 3] = [1, 2, 3];
+    // {} will not work when printing arrays to the screen so use {}:?} fmt
+    println!("An array declared with data type or size{:?} ", an_array1);
+    // checking the lenght of an array using the standard len() function
+    }
