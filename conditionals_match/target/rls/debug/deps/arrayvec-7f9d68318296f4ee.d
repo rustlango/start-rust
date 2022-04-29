@@ -1,0 +1,11 @@
+/home/alvorithm/Documents/FOCUS_SAULS/smhardtwork_university/blockchain_fullstack/Rustlanging/start_rust/conditionals_match/target/rls/debug/deps/arrayvec-7f9d68318296f4ee.rmeta: /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/lib.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec_impl.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/array_string.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/char.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/errors.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/utils.rs
+
+/home/alvorithm/Documents/FOCUS_SAULS/smhardtwork_university/blockchain_fullstack/Rustlanging/start_rust/conditionals_match/target/rls/debug/deps/arrayvec-7f9d68318296f4ee.d: /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/lib.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec_impl.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/array_string.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/char.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/errors.rs /home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/utils.rs
+
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/lib.rs:
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec_impl.rs:
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/arrayvec.rs:
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/array_string.rs:
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/char.rs:
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/errors.rs:
+/home/alvorithm/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.2/src/utils.rs:
