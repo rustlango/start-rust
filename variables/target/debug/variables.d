@@ -1,1 +1,0 @@
-/home/alvorithm/Documents/FOCUS_SAULS/solidity_rust_fullstack/Rustlanging/start_rust/variables/target/debug/variables: /home/alvorithm/Documents/FOCUS_SAULS/solidity_rust_fullstack/Rustlanging/start_rust/variables/src/main.rs
