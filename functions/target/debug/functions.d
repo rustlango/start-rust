@@ -1,1 +1,0 @@
-/home/alvorithm/Documents/FOCUS_SAULS/smhardtwork_university/blockchain_fullstack/Rustlanging/start_rust/functions/target/debug/functions: /home/alvorithm/Documents/FOCUS_SAULS/smhardtwork_university/blockchain_fullstack/Rustlanging/start_rust/functions/src/main.rs
