@@ -1,1 +1,0 @@
-/home/alvorithm/Documents/FOCUS_SAULS/smhardtwork_university/blockchain_fullstack/Rustlanging/start_rust/conditionals_if/target/debug/conditionals_if: /home/alvorithm/Documents/FOCUS_SAULS/smhardtwork_university/blockchain_fullstack/Rustlanging/start_rust/conditionals_if/src/main.rs
